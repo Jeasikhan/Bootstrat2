@@ -1,2 +1,2 @@
-# Bootstrat2
+# Bootstrap2
  Bootstrap  resposive in different screen
